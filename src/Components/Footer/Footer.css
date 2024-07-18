@@ -1,0 +1,21 @@
+.footer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+   padding-top: 20px;
+gap: 50px;
+    background-color: #B4D2FF;
+    margin-top: 10vh;
+   
+}
+.footer-links{
+    font-size: 17px;
+}
+.footer-main-links{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.contactus-side{
+    padding: 10px;
+}
