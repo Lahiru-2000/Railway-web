@@ -1,0 +1,15 @@
+/* src/App.css */
+
+.App {
+    text-align: center;
+  }
+  
+  form {
+    display: inline-block;
+    text-align: left;
+  }
+  
+  div {
+    margin-bottom: 10px;
+  }
+  
